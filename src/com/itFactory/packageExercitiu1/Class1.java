@@ -4,6 +4,31 @@ public class Class1 {
     public static void main (String [] args)
     {
         System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+        System.out.println("Prima linie");
+
     }
 
 
