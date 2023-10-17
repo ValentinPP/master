@@ -5,6 +5,13 @@ public class ClassExercitiuPrintln {
         System.out.println("Linia 1");
         System.out.println("Linia 2");
         System.out.println("Linia 3");
+        System.out.println("Linia 4");
+        System.out.println("Linia 5");
+        System.out.println("Linia 6");
+        System.out.println("Linia 7");
+        System.out.println("Linia 8");
+        System.out.println("Linia 9");
+        System.out.println("Linia 10");
 
         System.out.print("Line 1 ");
         System.out.print("Line 2 ");
