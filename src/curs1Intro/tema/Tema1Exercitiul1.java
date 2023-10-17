@@ -1,4 +1,4 @@
-package exercitiuDeAcasa1;
+package curs1Intro.tema;
 
 public class Tema1Exercitiul1 {
         public static void main(String[] args) {

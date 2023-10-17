@@ -1,4 +1,4 @@
-package packageExercitiu1;
+package curs1Intro.packageExercitiul1;
 
 public class ClassExercitiuPrintln {
     public static void main (String[] args){

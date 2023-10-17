@@ -1,3 +1,5 @@
+package curs1Intro;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
@@ -13,12 +15,12 @@ public class Main {
 //            // for you, but you can always add more by pressing Ctrl+F8.
 //            System.out.println("i = " + i);
 //        }
-        System.out.println("Problem nr 1 : devide to a number and display the leftover! :);
+        System.out.println("Problem nr 1 : divide to a number and display the leftover ");
         for (int a = 10; a <= 20; a++) {
             int b = 3;
             int c = a / b;
             int remaining = a % b;
-            System.out.println("Devideing " + a + " / " + b + " = " + c + " leftover " + remaining);
+            System.out.println("Dividing " + a + " / " + b + " = " + c + " leftover " + remaining);
         }
     }
 }
