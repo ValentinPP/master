@@ -1,4 +1,4 @@
-package curs1Intro.itFactory.packageExercitiu1;
+package curs1Intro.com.itFactory.packageExercitiu1;
 
 public class Class1 {
     public static void main (String [] args)

@@ -1,4 +1,4 @@
-package curs1Intro.itFactory;
+package curs1Intro.com.itFactory;
 
 public class HelloWorld {
 
