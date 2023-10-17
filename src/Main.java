@@ -13,11 +13,12 @@ public class Main {
 //            // for you, but you can always add more by pressing Ctrl+F8.
 //            System.out.println("i = " + i);
 //        }
-
-        for (int a = 0; a <= 5; a++) {
-            int b = 5;
-            int c = a * b;
-            System.out.println("a = " + a + "x" + b + "=" + c);
+        System.out.println("Problem nr 1 : devide to a number and display the leftover! :);
+        for (int a = 10; a <= 20; a++) {
+            int b = 3;
+            int c = a / b;
+            int remaining = a % b;
+            System.out.println("Devideing " + a + " / " + b + " = " + c + " leftover " + remaining);
         }
     }
 }
