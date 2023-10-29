@@ -1,4 +1,4 @@
-package saltamana2.curs1.AlteExercitii;
+package saptamana2.curs1.AlteExercitii;
 
 public class User {
 	String username;

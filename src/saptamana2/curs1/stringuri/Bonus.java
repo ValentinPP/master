@@ -1,4 +1,4 @@
-package saltamana2.curs1.stringuri;
+package saptamana2.curs1.stringuri;
 
 public class Bonus {
 	public static void main(String[] args) {

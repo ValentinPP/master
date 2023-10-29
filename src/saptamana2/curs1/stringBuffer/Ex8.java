@@ -1,11 +1,11 @@
-package saltamana2.curs1.stringBuilder;
+package saptamana2.curs1.stringBuffer;
 
-public class Ex7 {
+public class Ex8 {
 
 
 	public static void main(String[] args) {
 
-		StringBuilder sb = new StringBuilder("Ana");
+		StringBuffer sb = new StringBuffer("Ana");
 		sb.append(" are");
 		sb.append(" mere");
 
