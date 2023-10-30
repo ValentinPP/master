@@ -1,4 +1,4 @@
-package saptamana2.tema2.exercitiul12.electronice;
+package saptamana2.tema2.exercitiul12Laptop.electronice;
 
 public class MemorieSSD
 {

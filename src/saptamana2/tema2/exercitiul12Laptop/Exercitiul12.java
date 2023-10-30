@@ -1,4 +1,4 @@
-package saptamana2.tema2.exercitiul12;
+package saptamana2.tema2.exercitiul12Laptop;
 /**
  * Se dau resursele din proiectul TemaCapitolul3:
  * Se cer urmatoarele implementari.
@@ -27,9 +27,9 @@ package saptamana2.tema2.exercitiul12;
  * Unitate de masura stocare SSD: GB
  **/
 
-import saptamana2.tema2.exercitiul12.componente.Laptop;
-import saptamana2.tema2.exercitiul12.electronice.Ram;
-import saptamana2.tema2.exercitiul12.electronice.MemorieSSD;
+import saptamana2.tema2.exercitiul12Laptop.componente.Laptop;
+import saptamana2.tema2.exercitiul12Laptop.electronice.Ram;
+import saptamana2.tema2.exercitiul12Laptop.electronice.MemorieSSD;
 
 public class Exercitiul12 {
 	public static void main(String[] args) {

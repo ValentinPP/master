@@ -1,7 +1,7 @@
-package saptamana2.tema2.exercitiul12.componente;
+package saptamana2.tema2.exercitiul12Laptop.componente;
 
-import saptamana2.tema2.exercitiul12.electronice.MemorieSSD;
-import saptamana2.tema2.exercitiul12.electronice.Ram;
+import saptamana2.tema2.exercitiul12Laptop.electronice.MemorieSSD;
+import saptamana2.tema2.exercitiul12Laptop.electronice.Ram;
 
 public class Laptop {
 	private String marca;
