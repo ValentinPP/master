@@ -13,6 +13,6 @@ public class Exemplusl1 {
 
 		masina2.franeaza();
 
-	//	Masina masina3 = new Masina() {} -> o clasa abstract ce nu poate fi instantiata
+	//	Masina masina3 = new Masina()  -> o clasa abstract ce nu poate fi instantiata
 	}
 }
