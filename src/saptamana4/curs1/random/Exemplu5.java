@@ -1,2 +1,15 @@
-package saptamana4.curs1.random;public class Exemplu5 {
+package saptamana4.curs1.random;
+
+import java.util.Random;
+
+public class Exemplu5 {
+	public static void main(String[] args) {
+
+		Random random = new Random();
+
+		System.out.println(random.nextInt(0,10));
+
+
+
+	}
 }
