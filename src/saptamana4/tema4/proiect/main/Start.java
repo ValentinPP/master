@@ -1,11 +1,11 @@
-package saptamana4.curs1.proiect.main;
+package saptamana4.tema4.proiect.main;
 
-import saptamana4.curs1.proiect.dataAccessObject.CursDao;
-import saptamana4.curs1.proiect.modal.Curs;
-import saptamana4.curs1.proiect.modal.CursLimbiStraine;
-import saptamana4.curs1.proiect.modal.CursProgramare;
-import saptamana4.curs1.proiect.database.BazaDate;
-import saptamana4.curs1.proiect.dataAccessObject.CursDaoImplemetare;
+import saptamana4.tema4.proiect.dataAccessObject.CursDao;
+import saptamana4.tema4.proiect.modal.Curs;
+import saptamana4.tema4.proiect.modal.CursLimbiStraine;
+import saptamana4.tema4.proiect.modal.CursProgramare;
+import saptamana4.tema4.proiect.database.BazaDate;
+import saptamana4.tema4.proiect.dataAccessObject.CursDaoImplemetare;
 
 import java.util.List;
 import java.util.Scanner;

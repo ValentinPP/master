@@ -1,4 +1,4 @@
-package saptamana4.curs1.proiect.modal;
+package saptamana4.tema4.proiect.modal;
 
 public class CursProgramare extends Curs {
 

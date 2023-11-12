@@ -1,6 +1,6 @@
-package saptamana4.curs1.proiect.database;
+package saptamana4.tema4.proiect.database;
 
-import saptamana4.curs1.proiect.modal.Curs;
+import saptamana4.tema4.proiect.modal.Curs;
 
 import java.util.ArrayList;
 import java.util.List;
