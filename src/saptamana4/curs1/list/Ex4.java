@@ -11,6 +11,8 @@ public class Ex4 {
 		list1.add(5);
 		list1.add(8);
 
+		System.out.println("xxxxxxxxxxxxxxxxxx" +list1);
+
 		list2.add(5);
 		list2.add(8);
 

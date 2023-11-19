@@ -26,13 +26,19 @@ public class Persoana {
 	}
 
 		@Override
-	public int hashCode() {
-		return super.hashCode();
-	}
+		public int hashCode() {
+			int result = Integer.hashCode(id);
+			result = 31 * result + nume.hashCode();
+			return result;
+		}
 
 	@Override
 	public boolean equals(Object obj) {
-		return super.equals(obj);
+		if (this == obj) return true;
+		if (obj == null || getClass() != obj.getClass()) return false;
+
+		Persoana person = (Persoana) obj;
+		return id == person.id && nume.equals(person.nume);
 	}
 
 	@Override
@@ -41,11 +47,5 @@ public class Persoana {
 				"nume='" + nume + '\'' +
 				'}';
 	}
-
-//	@Override
-//	public Integer toString() {
-//		return id;
-//	}
-
 
 }
