@@ -12,7 +12,7 @@ import java.util.Set;
 //	String[] cuvinte = textulMeu.split("\\s+") (O sa spargem textul in cuvinte in functie de spatiile dintre cuvinte)
 
 
-public class problema4 {
+public class Problema4 {
 	public static void main(String[] args) {
 		Scanner keyboardInput = new Scanner(System.in);
 
